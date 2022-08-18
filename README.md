@@ -4,7 +4,7 @@ sensor, temperature monitoring sensor, works on WiFi, can spread up to a wide ar
 * Farmers face many difficulties in agriculture, one of the major issue is timely water supply to plants.
 * To reduce farmers workload, automating agriculture by ensuring water supply to plants and a perfect water management system which support the farmers to get quality production.
 
-->CODES: WE USE AURDINO ADE AND  Adafruit GFX AND  SSD1306 LIBRARYS, Thingspeak Server.
+->CODES: WE USE ARDUINO ADE AND  Adafruit GFX AND  SSD1306 LIBRARYS, Thingspeak Server.
 
 ->MODEL:
 
